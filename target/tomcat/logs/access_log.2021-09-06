@@ -1,0 +1,2 @@
+127.0.0.1 - - [06/Sep/2021:10:30:57 +0000] "GET /crud-exple/ HTTP/1.1" 500 1479 http-bio-8080-exec-1 32
+127.0.0.1 - - [06/Sep/2021:10:30:57 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
